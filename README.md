@@ -104,7 +104,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the Apache 2.o License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
